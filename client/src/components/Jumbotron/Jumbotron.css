@@ -1,0 +1,33 @@
+
+.backgroundImage {
+
+    background-image: url("https://www.manhattan-institute.org/sites/default/files/nytimes-hm-120617.jpg");
+    background-size: 100% 100%;
+}
+
+.JumboH {
+    /* height: 700px; */
+}
+
+.opacity {
+    opacity: 0.85;
+}
+
+.headerMargin {
+    /* padding: 10px 10px 10px 10px;
+    margin-top: 120px;
+    font-size: 52px; */
+}
+
+.instructionMargin {
+
+    /* border-radius: 60px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: orange;
+    color: white; */
+}
+
+.font2 {
+    font-size: 24px;
+}
