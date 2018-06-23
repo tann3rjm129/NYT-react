@@ -1,12 +1,21 @@
 
 .backgroundImage {
 
-    background-image: url("https://www.manhattan-institute.org/sites/default/files/nytimes-hm-120617.jpg");
+    background-image: url("../images/nytimes.jpg");
     background-size: 100% 100%;
 }
 
+.border1 {
+    border-bottom: 10px black solid;
+}
+
+.jumboText {
+    background-color: black;
+    color: white;
+}
+
 .JumboH {
-    /* height: 700px; */
+    height: 500px;
 }
 
 .opacity {
@@ -14,9 +23,14 @@
 }
 
 .headerMargin {
-    /* padding: 10px 10px 10px 10px;
-    margin-top: 120px;
-    font-size: 52px; */
+    padding: 10px 10px 10px 10px;
+    margin-top: 265px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    font-size: 52px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-bottom: 15px black solid;
 }
 
 .instructionMargin {
@@ -28,6 +42,15 @@
     color: white; */
 }
 
+.font {
+    font-size: 50px;
+    font-weight: bold;
+}
 .font2 {
     font-size: 24px;
+}
+
+.fontStyle {
+    font-family: 'Julius Sans One', sans-serif;
+
 }

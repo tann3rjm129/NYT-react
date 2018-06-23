@@ -9,6 +9,38 @@
 
 .marginAdjust {
 
-    /* margin-left: 30px;
-    margin-bottom: 40px; */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.cardAdjust {
+
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.buttonMargin {
+    margin-right: 10%;
+}
+
+.fontStyle {
+    font-family: 'Julius Sans One', sans-serif;
+
+}
+
+.blackBackground {
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.card {
+    border: 10px black solid;
+}
+
+.card-title {
+    margin-left: 10px;
+    font-weight: bold;
 }

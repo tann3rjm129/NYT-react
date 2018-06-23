@@ -1,11 +1,16 @@
 
 .blue1 {
 
-    background-color: #150170;
+    background-color: #0a0a0a;
     color: white;
 }
 
 .margin2 {
 
     margin-top: 80px;
+}
+
+.fontStyle {
+    font-family: 'Julius Sans One', sans-serif;
+
 }

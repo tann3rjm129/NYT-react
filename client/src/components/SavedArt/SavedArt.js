@@ -6,21 +6,20 @@ const SavedArt = () => (
     <div>
 
 
-        <div className="col-md-12 marginAdjust">
+        <div className="col-md-12">
 
-            <div className="card">
-                <div className="card-body">
-                    <p class="card-title text-center">Saved Articles</p>
+            <div className="card marginAdjust">
 
-                    <br></br>
+                <div className="row justify-content-start blackBackground">
+                    <p class="h4 text-center mb-4 fontStyle card-title">Articles Saved</p>
+                </div>
 
+                <div className="card-body cardAdjust">
                     {/* <!-- Default input name --> */}
-                    <p class="card-text text-center">Articles Saved</p>
-                    <div class="text-center mt-4">
-                        <button class="btn btn-unique">Removed</button>
+                    <p class="card-text text-center fontStyle">Articles Saved</p>
+                    <div class="row text-center justify-content-end">
+                        <button class="btn btn-yellow fontStyle">Remove</button>
                     </div>
-
-                    <br></br>
                 </div>
 
             </div>

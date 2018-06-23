@@ -1,13 +1,13 @@
 
 .nav {
-    height: 80px;
+    height: 60px;
     background-color: #0a0a0a;
     color: white;
 }
 
 .marginTop {
     margin-top: 5px;
-    margin-left: -40px;
+    margin-left: -20px;
 }
 
 .navBarImage {
@@ -16,5 +16,10 @@
 }
 
 .headerText {
-    font-size: 36px;
+    font-size: 24px;
+}
+
+.fontStyle {
+    font-family: 'Julius Sans One', sans-serif;
+
 }
