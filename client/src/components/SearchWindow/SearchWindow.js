@@ -17,19 +17,19 @@ const SearchWindow = () => (
                 <div className="card-body">
                     <form className="cardAdjust">
                         {/* <!-- Default input name --> */}
-                        <label for="defaultFormRegisterNameEx fontStyle" class="grey-text">Topic</label>
+                        <label for="defaultFormRegisterNameEx" class="grey-text fontStyle">Topic</label>
                         <input type="text" id="defaultFormRegisterNameEx" class="form-control"></input>
 
                         <br></br>
 
                         {/* <!-- Default input email --> */}
-                        <label for="defaultFormRegisterEmailEx fontStyle" class="grey-text">Start Year</label>
+                        <label for="defaultFormRegisterEmailEx" class="grey-text fontStyle">Start Year</label>
                         <input type="email" id="defaultFormRegisterEmailEx" class="form-control"></input>
 
                         <br></br>
 
                         {/* <!-- Default input email --> */}
-                        <label for="defaultFormRegisterConfirmEx fontStyle" class="grey-text">End Year</label>
+                        <label for="defaultFormRegisterConfirmEx" class="grey-text fontStyle">End Year</label>
                         <input type="email" id="defaultFormRegisterConfirmEx" class="form-control"></input>
 
                         <br></br>

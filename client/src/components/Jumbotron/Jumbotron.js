@@ -11,7 +11,7 @@ const Jumbotron = () => (
                 <h1 class="h1-reponsive mb-3 font fontStyle"><strong>
                     Article Search
             </strong></h1>
-                <p class="lead font2 fontStytle">Search for Articles from the New York Times below</p>
+                <p class="lead font2 fontStyle">Search for Articles from the New York Times below</p>
 
             </div>
         </div>
